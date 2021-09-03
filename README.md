@@ -11,4 +11,5 @@
 - to Run the application typing "npm start" in terminal
 
 ### Screenshot
-![Alt text]https://github.com/snpatel17/plant-water-frontend/blob/master/public/screenshot.JPG
+![Alt text](https://github.com/snpatel17/plant-water-frontend/blob/master/public/screenshot.JPG)
+
