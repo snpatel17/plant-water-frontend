@@ -9,3 +9,6 @@
 - terminal propmt type "npm install" in terminal
 - Navigate to the file src > redux > actions > apiData.js chnage the port as required in REACT_APP_MY_URL
 - to Run the application typing "npm start" in terminal
+
+### Screenshot
+![Alt text]https://github.com/snpatel17/plant-water-frontend/blob/master/public/screenshot.JPG
